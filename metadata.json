@@ -1,0 +1,6 @@
+{
+  "name": "Digital Pad",
+  "description": "A digital whiteboard pad that connects to your laptop via Wi-Fi to draw and present.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
